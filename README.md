@@ -1,1 +1,0 @@
-# langchain-streamlit-celebrity-search
