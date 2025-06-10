@@ -80,7 +80,7 @@ streamlit run main.py
 
 ## 📸 Screenshot
 
-![App Screenshot](./Screenshot%202025-06-09%20214717.png)
+![App Screenshot](./Screenshot.png)
 
 ---
 
